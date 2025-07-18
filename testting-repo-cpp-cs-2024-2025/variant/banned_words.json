@@ -1,0 +1,3 @@
+{
+  "banned_words": ["variant", "std::visit", "std::holds_alternative", "std::get"]
+}
